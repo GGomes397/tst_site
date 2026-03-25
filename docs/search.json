@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Tobi Burns",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Descomplicando a estatística\r\n          \r\n          \r\n          Home\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Tobi Burns\r\n          \r\n          \r\n            \r\n              I am a classically trained data scientist living in the\r\n              San Francisco Bay Area. Currently I work on the Oculus\r\n              team at Facebook. I love talking about baseball, true\r\n              crime podcasts, and causal inference.\r\n            \r\n            \r\n              I am a classically trained data scientist living in the\r\n              San Francisco Bay Area. Currently I work on the Oculus\r\n              team at Facebook. I love talking about baseball, true\r\n              crime podcasts, and causal inference.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2026-03-25T18:15:24-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Encontros com a Estatística",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2026-03-25T18:15:29-03:00"
+    }
+  ],
+  "collections": []
+}
