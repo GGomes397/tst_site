@@ -1,8 +1,9 @@
-name: "."
-title: "Encontros com a Estatística"
+name: "Encontros com a Estatística"
+title: "Descomplicando a estatística"
 description: |
-  Encontros com a Estatística
+  This is my personal website.
 output_dir: "docs"
+theme: apreshill.css
 navbar:
   right:
     - text: "Home"
