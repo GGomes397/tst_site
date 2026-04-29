@@ -1,4 +1,5 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&family=Google+Sans+Flex:opsz,wght@6..144,1..1000&family=Inter:ital,opsz@0,14..32;1,14..32&family=Open+Sans:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&family=Google+Sans+Flex:opsz,wght@6..144,1..1000&family=Inter:ital,opsz@0,14..32;1,14..32&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 /* base variables */
 
 /* Edit the CSS properties in this file to create a custom
@@ -16,8 +17,8 @@
 html {
   /*-- Main font sizes --*/
   --title-size:      50px;
-  --body-size:       1.06rem;
-  --code-size:       14px;
+  --body-size:       18px;
+  --code-size:       16px;
   --aside-size:      12px;
   --fig-cap-size:    13px;
   /*-- Main font colors --*/
@@ -27,10 +28,10 @@ html {
   --aside-color:     rgba(0, 0, 0, 0.6);
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    sans-serif;
-  --mono-font:       monospace;
-  --body-font:       sans-serif;
-  --navbar-font:     sans-serif;  /* websites + blogs only */
+  --heading-font:    Amaranth;
+  --mono-font:       "Opens Sans";
+  --body-font:       "Opens Sans";
+  --navbar-font:     Amaranth;  /* websites + blogs only */
 }
 
 /*-- ARTICLE METADATA --*/
@@ -59,9 +60,9 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
+  --title-size:       27px;
   --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        15px;
+  --text-size:        25px;
   --hover-color:      white;
   --bkgd-color:       #0F2E3D;
 }

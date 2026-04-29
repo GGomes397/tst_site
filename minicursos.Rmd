@@ -1,0 +1,100 @@
+---
+title: "Minicursos"
+description: "Lista de minicursos do projeto Encontros com a Estatística"
+output: distill::distill_article
+---
+
+# 📚 Minicursos disponíveis
+
+------------------------------------------------------------------------
+
+## Curso de Introdução à Manipulação de Textos Usando o R
+
+![](images/mc_mani_txt.png)
+
+- Instrutor: Bernardo Alvim \### Descrição Focado em Ciência de Dados e Processamento de Linguagem Natural (PLN), este minicurso aborda a manipulação de dados textuais utilizando a linguagem de programação R. É um curso fundamental, pois dados não estruturados (como textos) representam uma grande parte das informações disponíveis hoje, e saber como limpá-los e organizá-los é uma etapa crucial em qualquer análise.
+
+Principais Tópicos Abordados:
+
+Introdução: Conceitos básicos e a importância da manipulação de textos (Text Mining).
+
+A Ferramenta Básica: O pacote base do R para manipulação de strings.
+
+O Pacote stringr: Exploração aprofundada de um dos pacotes mais utilizados no R para manipulação de textos, parte do ecossistema `Tidyverse`.
+
+Expressões Regulares (Regex): Introdução à linguagem Regex, essencial para encontrar padrões complexos em textos.
+
+Outras Ferramentas: Menção a outros pacotes relevantes como tm (Text Mining) e tidytext.
+
+Este curso é ideal para quem deseja aprender a preparar e limpar dados de texto para análise estatística e modelagem.
+
+------------------------------------------------------------------------
+
+## Elaboração de Relatórios Técnicos e Paginas Web Usando R Markdown
+
+![](images/mc_relatorios.png)
+
+- Instrutor: Calvin Silva Rodrigues [Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=C5F4BA0FD4A781B84D099BFC58EDBE76.buscatextual_0) \| [LinkedIn](https://www.linkedin.com/in/calvin-rod/)
+
+  ### Descrição
+
+  Este minicurso foca na comunicação de resultados de análises estatísticas, abordando o conceito de pesquisa reprodutível através da ferramenta R Markdown. Ele ensina como integrar código (R), texto e resultados em um único documento, permitindo a criação automática de relatórios técnicos profissionais e páginas web dinâmicas.
+
+- Principais Tópicos Abordados:
+
+  - Conceito de Pesquisa Reprodutível: Por que é importante criar documentos que integrem dados, código e interpretação.
+  - Sintaxe do R Markdown: Como escrever textos usando a linguagem Markdown e inserir blocos de código (chunks).
+  - Estrutura de um Documento: O cabeçalho YAML para configurações.
+  - Gerando Diferentes Saídas (Output): Como exportar para formatos como HTML (para páginas web), PDF (para relatórios profissionais) e Word.
+  - Customização: Como melhorar a aparência e funcionalidade dos documentos e páginas web gerados.
+
+Este curso é essencial para quem precisa comunicar análises de dados de forma clara, profissional e eficiente, seja na academia ou no mercado de trabalho
+
+## O Profissional de Estatística: Como Administrar o Tempo e Encaixar Tudo nas 24 Horas
+
+![](images/mc_gesta_time.png) - Instrutor: Bryan Carolino Muniz Barbosa [Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do) \| [LinkedIn](https://www.linkedin.com/in/bryancmbarbosa//)\
+- Instrutor: Heloísa Sant'Ana Kohatsu [Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do)
+
+### Descrição
+
+Este minicurso tem uma abordagem voltada para o desenvolvimento pessoal e profissional, focando em uma das habilidades mais críticas no mundo atual: a gestão do tempo. O objetivo não é apenas ensinar técnicas de produtividade, mas promover o autoconhecimento para que o profissional consiga equilibrar suas diversas responsabilidades.
+
+Principais Tópicos Abordados:
+
+- Autoconhecimento: Entender seu próprio ritmo de trabalho e identificar "ladrões de tempo".
+
+- Métodos e Técnicas: Apresentação de métodos consolidados, como a Matriz de Eisenhower (para priorização) e a Técnica Pomodoro (para foco).
+
+- Ferramentas de Produtividade: Como utilizar plataformas digitais para organizar tarefas e projetos. O curso explora ferramentas como o Notion (para gerenciamento e documentação), Trello (para organização de fluxos de trabalho), além do Google Calendar e Google Keep.
+
+- Automação: Introdução a conceitos de automação de tarefas para economizar tempo.
+
+- Boas Práticas: Escolhas produtivas e equilíbrio entre vida profissional e pessoal.
+
+Este minicurso é visto como uma atividade suplementar importante, ajudando os participantes a se organizarem melhor para lidar com as demandas acadêmicas e profissionais do Estatístico
+
+## Visualização Gráfica em R com GGPLOT2
+
+![](images/mc_ggplot.png) - Instrutor: Pedro Henrique de Mesquita Pacheco [Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do) \| [LinkedIn](https://www.linkedin.com/in/phmpacheco/)
+
+### Descrição
+
+Dedicado inteiramente à **visualização de dados**, este minicurso foca no pacote **`ggplot2`**, que é o padrão da indústria para criação de gráficos no R. O objetivo é capacitar os participantes a criar representações gráficas de alta qualidade que facilitem a interpretação de padrões e a comunicação de descobertas em dados complexos.
+
+**Principais Tópicos Abordados:**
+
+- **Introdução à Gramática de Gráficos:** O conceito por trás do `ggplot2`, onde gráficos são construídos camada por camada.
+
+- **Camadas Principais:** Como mapear dados para elementos estéticos (`aes`) e definir geometrias (`geom`) para diferentes tipos de gráficos.
+
+- **Principais Gráficos:** Criação de histogramas, boxplots, gráficos de dispersão (scatterplot), gráficos de barras, gráficos de linha, mapas de calor (heatmaps), etc.
+
+- **Aparência:** Como alterar temas, cores, eixos e legendas para tornar os gráficos mais claros e visualmente atraentes.
+
+- **Interatividade (Opcional):** Introdução ao pacote `plotly` para tornar gráficos estáticos em interativos.
+
+Este curso é indispensável para quem deseja dominar a arte da visualização de dados e transformar análises em insights visuais poderosos.
+
+### Material
+
+<https://drive.google.com/drive/u/0/folders/1jWnwm5DCmim5gNFOAizU8sr09NXi-bQE>
