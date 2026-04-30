@@ -1,18 +1,16 @@
 ---
 title: "Encontros com a Estatística"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Capacitação, literacia de dados e ensino de Estatística no ICE/UFJF.
 site: distill::distill_website
+theme: apreshill.css
 ---
+# Olá! 📊
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+Este portal é um espaço dedicado a desmistificar a Estatística e mostrar sua importância para problemas reais. Queremos transformar o conhecimento produzido no **C/UFJF** m ferramentas práticas
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+[Conheça nossos materiais ](minicursos.html){.btn .btn-default}
+[Conheça nossos Projetos ](projetos.html){.btn .btn-default}
+[Sobre esse projeto](about.html){.btn .btn-default}
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
+Esse website foi criado usando biblioteca `distill` do R.

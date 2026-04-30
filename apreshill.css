@@ -29,8 +29,8 @@ html {
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
   --heading-font:    Amaranth;
-  --mono-font:       "Opens Sans";
-  --body-font:       "Opens Sans";
+  --mono-font:       "Open Sans";
+  --body-font:       "Open Sans";
   --navbar-font:     Amaranth;  /* websites + blogs only */
 }
 

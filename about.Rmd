@@ -1,13 +1,8 @@
 ---
-title: "Encontros com a Estatística"
-image: "images/logo.png"
-links:
-  - label: GitHub
-    url: "https://github.com/Encontroscomaestatistica/"
-  - label: Email
-    url: "encontros.estatistica@ice.ufjf.br"
-output:
-  postcards::jolla
+title: "Sobre o Projeto"
+description: |
+  Conheça mais sobre a equipe e os objetivos do Encontros com a Estatística.
+output: distill::distill_article
 ---
 
 # Bem-vindo(a)!

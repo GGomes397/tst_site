@@ -12,7 +12,9 @@ output: distill::distill_article
 
 ![](images/mc_mani_txt.png)
 
-- Instrutor: Bernardo Alvim \### Descrição Focado em Ciência de Dados e Processamento de Linguagem Natural (PLN), este minicurso aborda a manipulação de dados textuais utilizando a linguagem de programação R. É um curso fundamental, pois dados não estruturados (como textos) representam uma grande parte das informações disponíveis hoje, e saber como limpá-los e organizá-los é uma etapa crucial em qualquer análise.
+- Instrutor: Bernardo Alvim
+- Descrição
+- Focado em Ciência de Dados e Processamento de Linguagem Natural (PLN), este minicurso aborda a manipulação de dados textuais utilizando a linguagem de programação R. É um curso fundamental, pois dados não estruturados (como textos) representam uma grande parte das informações disponíveis hoje, e saber como limpá-los e organizá-los é uma etapa crucial em qualquer análise.
 
 Principais Tópicos Abordados:
 
@@ -36,9 +38,9 @@ Este curso é ideal para quem deseja aprender a preparar e limpar dados de texto
 
 - Instrutor: Calvin Silva Rodrigues [Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=C5F4BA0FD4A781B84D099BFC58EDBE76.buscatextual_0) \| [LinkedIn](https://www.linkedin.com/in/calvin-rod/)
 
-  ### Descrição
+### Descrição
 
-  Este minicurso foca na comunicação de resultados de análises estatísticas, abordando o conceito de pesquisa reprodutível através da ferramenta R Markdown. Ele ensina como integrar código (R), texto e resultados em um único documento, permitindo a criação automática de relatórios técnicos profissionais e páginas web dinâmicas.
+Este minicurso foca na comunicação de resultados de análises estatísticas, abordando o conceito de pesquisa reprodutível através da ferramenta R Markdown. Ele ensina como integrar código (R), texto e resultados em um único documento, permitindo a criação automática de relatórios técnicos profissionais e páginas web dinâmicas.
 
 - Principais Tópicos Abordados:
 
@@ -98,3 +100,5 @@ Este curso é indispensável para quem deseja dominar a arte da visualização d
 ### Material
 
 <https://drive.google.com/drive/u/0/folders/1jWnwm5DCmim5gNFOAizU8sr09NXi-bQE>
+
+## Git
