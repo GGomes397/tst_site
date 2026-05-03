@@ -1,7 +1,6 @@
 ---
 title: "Encontros com a Estatística"
-description: |
-  Capacitação, literacia de dados e ensino de Estatística no ICE/UFJF.
+description: " "
 site: distill::distill_website
 theme: apreshill.css
 ---

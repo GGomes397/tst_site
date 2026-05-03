@@ -1,12 +1,9 @@
 ---
 title: "Minicursos"
-description: "Lista de minicursos do projeto Encontros com a Estatística"
+description: "Lista de minicursos "
 output: distill::distill_article
 ---
 
-# 📚 Minicursos disponíveis
-
-------------------------------------------------------------------------
 
 ## Curso de Introdução à Manipulação de Textos Usando o R
 

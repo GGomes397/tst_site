@@ -1,6 +1,6 @@
 ---
 title: "Projetos"
-description: |
-  A new article created using the Distill format.
+description: "Iniciativas do Encontros com a Estatística "
 output: distill::distill_article
 ---
+Aba dos projetos 
