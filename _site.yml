@@ -1,12 +1,9 @@
 name: "Encontros com a Estatística"
 title: "Encontros com a Estatística"
 output_dir: "docs"
-theme: apreshill.css
 navbar:
   title: "Encontros com a Estatística"
-  left:
-    - text: "Home"
-      href: index.html
+  right:
     - text: "Atividades"
       menu:
         - text: "Minicursos"
@@ -15,3 +12,6 @@ navbar:
           href: projetos.html
     - text: "Sobre"
       href: about.html
+output:
+  distill::distill_article:
+    theme: apreshill.css
